@@ -2,7 +2,7 @@
 OpenCV to identify Credit Card Number from a picture of Card
 
 #### Method
-Code in this project take reference from the link below. The refenrence code is only able to identify the Credit Card of VISA/Master which consists 16 digits in 4 groups of numbers. This project modified the code of it to make it capable of reading other credit card format as below.
+This project the code of it to make it capable of reading other credit card format as below.
 
 Steps of identifying the number:
 1. Detecting the four groups of four numbers on the credit card via various image processing techniques, including morphological operations, thresholding, and contour extraction.
