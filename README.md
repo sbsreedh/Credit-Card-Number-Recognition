@@ -2,7 +2,7 @@
 OpenCV to identify Credit Card Number from a picture of Card
 
 #### Method
-This project the code of it to make it capable of reading other credit card format as below.
+
 
 Steps of identifying the number:
 1. Detecting the four groups of four numbers on the credit card via various image processing techniques, including morphological operations, thresholding, and contour extraction.
